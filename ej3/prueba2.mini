@@ -1,0 +1,5 @@
+var x = 10;
+y = 3;
+if (x) { print x; }
+var x = 4;
+print x + true;
